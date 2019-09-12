@@ -3,7 +3,7 @@
 ShaderPixel is a 42 project. It's a fragment shader museum using OpenGL and C++ and a custom game engine. Most of the shader use raymarching.
 
 <img src="/ressources/screenshots/note.png" width="200">
-
+[video](https://www.youtube.com/watch?v=ThAawNuKSpk)
 
 ### Installing
 
